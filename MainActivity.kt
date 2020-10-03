@@ -3,7 +3,6 @@ import android.graphics.Bitmap
 import android.graphics.BitmapFactory
 import android.os.Bundle
 import android.util.SparseArray
-import android.widget.ImageView
 import androidx.appcompat.app.AppCompatActivity
 import com.google.android.gms.vision.Frame
 import com.google.android.gms.vision.barcode.Barcode
